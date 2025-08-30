@@ -17,4 +17,4 @@ ROC Curve :
 <img width="587" height="455" alt="ROC Curve" src="https://github.com/user-attachments/assets/39d4c832-de72-47bb-9f67-5e3b9d838e5d" />
 
 ## Demo Video
-
+https://github.com/Durga0906/Disease-Prediction-Toolkit/blob/main/demo.mp4
